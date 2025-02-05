@@ -96,7 +96,7 @@ namespace GPU_trace
     {
         public static string token = "Не используется", version = "2.3", updVersion = version;
         public static bool useTelegramBot = false, sendingLimits = false, autorun = false;
-        public static string logfilename = "data\\log.txt", paramFilename = "data\\Parameters.ini", paramFileBackup = "data\\backup\\Parameters_backup.ini", settingsfilename = "data\\Settings.ini", filename = $"{Environment.GetFolderPath(Environment.SpecialFolder.Personal)}\\GPU-Z Sensor Log.txt";
+        public static string logfilename = "data\\log.txt", settingsfilename = "data\\Settings.ini", filename = $"{Environment.GetFolderPath(Environment.SpecialFolder.Personal)}\\GPU-Z Sensor Log.txt";
         public static double GPUlimit, MEMlimit, GPUtemp, MEMtemp, inputGPUlimit, inputMEMlimit;
         public static DateTime dataDate;
         public static Stack<Error> errors = new Stack<Error>();
