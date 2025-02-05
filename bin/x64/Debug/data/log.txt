@@ -1,0 +1,957 @@
+
+05.02.2025 10:43:47: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:43:47: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:43:48: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:43:48 ,         435.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:43:48: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:43:48: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:43:49: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:43:49 ,         540.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:43:49: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:43:49: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:43:50: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:43:50 ,         540.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:43:50: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:43:50: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:43:51: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:43:51 ,         585.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:43:51: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:43:51: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:43:53: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:43:52 ,         585.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:43:53: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:43:53: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:43:54: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:43:53 ,         570.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:43:54: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:43:54: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:43:55: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:43:54 ,         570.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:43:55: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:43:55: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:43:56: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:43:55 ,         420.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:43:56: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:43:56: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:43:57: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:43:56 ,         570.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:43:57: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:43:57: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:43:58: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:43:57 ,         435.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:43:58: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:43:58: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:43:59: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:43:58 ,         540.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:43:59: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:43:59: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:00: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:00 ,         555.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:00: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:00: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:01: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:01 ,         555.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:01: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:01: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:02: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:02 ,         540.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:02: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:02: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:03: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:03 ,         540.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:03: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:03: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:04: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:04 ,         495.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:04: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:04: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:05: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:05 ,         495.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:05: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:05: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:06: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:06 ,         615.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:06: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:06: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:07: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:07 ,         615.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:07: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:07: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:09: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:08 ,         435.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:09: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:09: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:10: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:09 ,         600.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:10: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:10: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:11: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:10 ,         600.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:11: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:11: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:12: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:11 ,         435.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:12: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:12: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:13: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:12 ,         600.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:13: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:13: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:14: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:13 ,         600.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:14: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:14: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:15: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:15 ,         615.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:15: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:15: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:16: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:16 ,         615.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:16: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:16: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:17: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:17 ,         420.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:17: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:17: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:18: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:18 ,         555.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:18: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:18: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:19: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:19 ,         420.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:19: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:19: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:20: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:20 ,         615.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:20: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:20: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:21: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:21 ,         495.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:21: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:21: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:22: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:22 ,         435.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:22: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:22: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:23: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:23 ,         585.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:23: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:23: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:25: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:24 ,         585.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:25: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:25: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:26: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:25 ,         420.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:26: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:26: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:27: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:26 ,         615.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:27: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:27: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:28: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:27 ,         480.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:28: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:28: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:29: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:28 ,         420.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:29: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:29: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:30: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:29 ,         585.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:30: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:30: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:31: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:30 ,         450.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:31: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:31: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:32: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:32 ,         585.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:32: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:32: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:33: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:33 ,         435.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:33: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:33: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:34: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:34 ,         585.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:34: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:34: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:35: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:35 ,         585.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:35: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:35: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:36: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:36 ,         600.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:36: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:36: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:37: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:37 ,         540.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:37: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:37: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:38: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:38 ,         540.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:38: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:38: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:39: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:39 ,         540.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:39: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:39: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:41: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:40 ,         540.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:41: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:41: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:42: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:41 ,         525.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:42: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:42: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:43: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:42 ,         525.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:43: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:43: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:44: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:43 ,         510.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:44: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:44: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:45: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:44 ,         510.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:45: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:45: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:46: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:45 ,         495.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:46: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:46: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:47: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:46 ,         495.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:47: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:47: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:48: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:48 ,         480.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:48: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:48: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:49: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:49 ,         465.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:49: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:49: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:50: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:50 ,         465.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:50: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:50: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:51: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:51 ,         450.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:51: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:51: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:52: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:52 ,         435.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:52: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:52: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:53: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:53 ,         435.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:53: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:53: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:54: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:54 ,         420.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:54: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:54: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:55: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:55 ,         540.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:55: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:55: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:57: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:56 ,         720.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:57: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:57: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:58: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:57 ,         720.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:58: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:58: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:44:59: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:58 ,         510.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:44:59: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:44:59: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:00: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:44:59 ,         435.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:00: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:00: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:01: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:00 ,         615.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:01: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:01: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:02: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:01 ,         615.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:02: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:02: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:03: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:02 ,         420.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:03: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:03: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:04: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:03 ,         585.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:04: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:04: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:05: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:05 ,         585.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:05: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:05: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:06: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:06 ,         585.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:06: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:06: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:07: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:07 ,         585.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:07: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:07: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:08: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:08 ,         585.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:08: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:08: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:09: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:09 ,         435.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:09: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:09: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:10: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:10 ,         570.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:10: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:10: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:11: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:11 ,         570.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:11: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:11: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:12: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:12 ,         600.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:12: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:12: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:14: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:13 ,         600.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:14: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:14: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:15: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:14 ,         450.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:15: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:15: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:16: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:15 ,         570.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:16: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:16: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:17: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:16 ,         570.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:17: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:17: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:18: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:17 ,         420.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:18: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:18: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:19: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:18 ,         615.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:19: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:19: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:20: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:19 ,         465.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:20: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:20: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:21: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:21 ,         570.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:21: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:21: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:22: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:22 ,         420.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:22: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:22: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:23: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:23 ,         555.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:23: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:23: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:24: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:24 ,         420.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:24: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:24: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:25: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:25 ,         600.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:25: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:25: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:26: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:26 ,         480.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:26: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:26: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:27: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:27 ,         420.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:27: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:27: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:28: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:28 ,         615.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:28: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:28: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:29: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:29 ,         480.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:29: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:29: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:31: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:30 ,         420.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:31: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:31: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:32: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:31 ,         615.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:32: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:32: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:33: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:32 ,         480.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:33: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:33: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:34: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:33 ,         420.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:34: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:34: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:35: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:34 ,         585.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:35: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:35: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:36: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:35 ,         450.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:36: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:36: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:37: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:36 ,         585.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:37: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:37: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:38: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:38 ,         570.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:38: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:38: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:39: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:39 ,         570.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:39: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:39: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:40: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:40 ,         525.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:40: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:40: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:41: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:41 ,         540.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:41: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:41: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:42: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:42 ,         495.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:42: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:42: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:43: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:43 ,         495.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:43: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:43: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:44: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:44 ,         495.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:44: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:44: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:45: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:45 ,         495.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:45: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:45: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:47: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:46 ,         495.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:47: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:47: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:48: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:47 ,         480.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:48: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:48: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:49: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:48 ,         480.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:49: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:49: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:50: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:49 ,         480.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:50: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:50: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:51: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:50 ,        1770.0   ,           1187.7   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:51: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:51: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:52: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:51 ,        1770.0   ,           1187.7   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:52: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:52: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:53: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:52 ,        1770.0   ,           1187.7   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:53: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:53: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:54: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:54 ,         420.0   ,            625.2   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:54: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:54: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:55: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:55 ,         330.0   ,            625.2   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:55: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:55: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:56: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:56 ,         540.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:56: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:56: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:57: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:57 ,         570.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:57: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:57: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:58: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:58 ,        1770.0   ,           1187.7   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:58: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:58: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:45:59: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:45:59 ,        1770.0   ,           1187.7   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:45:59: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:45:59: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:00: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:46:00 ,        1770.0   ,           1187.7   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:46:00: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:00: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:01: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:46:01 ,         495.0   ,            625.2   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:46:01: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:01: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:02: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:46:02 ,         360.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:46:02: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:02: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:04: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:46:03 ,         270.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:46:04: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:04: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:05: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:46:04 ,         210.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:46:05: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:05: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:06: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:46:05 ,         210.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:46:06: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:06: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:07: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:46:06 ,         210.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:46:07: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:07: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:08: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:46:07 ,         210.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:46:08: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:08: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:09: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:46:08 ,         210.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:46:09: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:09: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:10: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:46:10 ,         270.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:46:10: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:10: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:11: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:46:11 ,         495.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:46:11: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:11: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:12: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:46:12 ,         495.0   ,            101.3   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:46:12: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:12: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:13: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:46:13 ,         330.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:46:13: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:13: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:14: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:46:14 ,         285.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:46:14: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:14: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:15: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:46:15 ,         240.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:46:15: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:15: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:16: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:46:16 ,         210.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:46:16: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:16: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:17: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:46:17 ,         210.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:46:17: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:17: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:19: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:46:18 ,         210.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:46:19: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:19: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:20: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:46:19 ,         210.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:46:20: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:20: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:21: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:46:20 ,         210.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:46:21: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:21: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:22: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:46:21 ,         210.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:46:22: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:22: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:23: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:46:22 ,         210.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:46:23: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:23: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:24: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:46:24 ,         210.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:46:24: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:24: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:25: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:46:25 ,         210.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:46:25: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:25: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:26: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:46:26 ,         210.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:46:26: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:26: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:27: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:46:27 ,         210.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:46:27: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:27: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:28: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:46:28 ,         225.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:46:28: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:28: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:29: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:46:29 ,         225.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:46:29: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:29: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:30: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:46:29 ,         225.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:46:30: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:30: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:31: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:46:29 ,         225.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:46:31: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:31: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:33: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:46:29 ,         225.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:46:33: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:33: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:34: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:46:29 ,         225.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:46:34: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:34: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:35: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:46:29 ,         225.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:46:35: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:35: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:36: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534 2025-02-05 10:46:29 ,         225.0   ,             50.6   ,                  -   ,           -   ,                     -   ,
+05.02.2025 10:46:36: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:36: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.
+05.02.2025 10:46:37: Ошибка при попытке чтения C:\Users\Rustem\Documents\3070 Ti.txt System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в GPU_trace.Monitor.GetGPUZValues() в C:\Users\Rustem\YandexDisk\Компьютер RCORP\Source\repos\GPU trace\GPU trace\Monitor.cs:строка 534         Date        , GPU Clock [MHz] , Memory Clock [MHz] , GPU Temperature [�C] , Hot Spot [�C] , Memory Temperature [�C] ,
+05.02.2025 10:46:37: Данные устарели. Последние были: 5 февраля 2025 г. 9:58:48
+05.02.2025 10:46:37: Файл C:\Users\Rustem\Documents\3070 Ti.txt не найден.

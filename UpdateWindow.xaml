@@ -1,0 +1,85 @@
+﻿<Window x:Class="GPU_trace.UpdateWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GPU_trace"
+        mc:Ignorable="d"
+        Title="GPU trace" Height="150" Width="250" 
+        ResizeMode="NoResize" ShowInTaskbar="True" 
+        BorderThickness="0" Background="Transparent"
+        WindowStartupLocation="CenterScreen" AllowsTransparency="True" 
+        WindowStyle="None" Loaded="Window_Loaded">
+    <Grid>
+        <Border Name="border" Width="auto" Height="auto" BorderBrush="Gold" BorderThickness="1"
+                CornerRadius="20,0,20,20">
+            <Border.Background>
+                <LinearGradientBrush>
+                    <GradientBrush.GradientStops>
+                        <GradientStopCollection>
+                            <GradientStop Color="#720E1F87" Offset="0.0"></GradientStop>
+                            <GradientStop Color="#723C491E" Offset="0.5"></GradientStop>
+                        </GradientStopCollection>
+                    </GradientBrush.GradientStops>
+                </LinearGradientBrush>
+            </Border.Background>
+            <Grid Background="Transparent" MouseDown="ToolBar_MouseDown">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="25"/>
+                    <RowDefinition Height="55"/>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="15"/>
+                </Grid.RowDefinitions>
+                <Grid Name="ToolBar" Background="Transparent" Grid.Row="0">
+                    <TextBlock Name="tbFilename" Text="GPU Z text"
+                                   FontSize="20" Foreground="GreenYellow"
+                                   Margin="10,0,0,0"
+                                   VerticalAlignment="Center"
+                                   Visibility="Hidden"/>
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                        <Image Name="CloseButton" Height="15" Width="15" Margin="3,3,6,0" MouseDown="CloseButton_MouseDown">
+                            <Image.Style>
+                                <Style TargetType="{x:Type Image}">
+                                    <Setter Property="Source" Value="Source/close_noactive.png"/>
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding IsMouseOver, ElementName=CloseButton}"
+                                             Value="true">
+                                            <Setter Property="Source" Value="Source/close_active.png"/>
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Image.Style>
+                            <Image.Effect>
+                                <BlurEffect Radius="1"/>
+                            </Image.Effect>
+                        </Image>
+                    </StackPanel>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <TextBlock Name="tb_update" Text="Вышло обновление"
+                               FontSize="25" Foreground="GreenYellow"
+                               HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    <TextBlock Name="tb_newver" Text="Новая версия 2.0, обновить?"
+                               FontSize="12" Foreground="GreenYellow"
+                               HorizontalAlignment="Center" VerticalAlignment="Bottom"/>
+                </Grid>
+                <Grid Grid.Row="2">
+                    <StackPanel Orientation="Horizontal">
+                        <Button Width="80" Height="30" Content="Да"
+                                Background="#5151" Foreground="AntiqueWhite"
+                                BorderBrush="GreenYellow"
+                                Margin="35,0,0,0"
+                                FontSize="20" BorderThickness="1" Click="Button_Click"
+                                />
+                        <Button Width="90" Height="30" Content="Нет"
+                                Background="#5151" Foreground="AntiqueWhite"
+                                BorderBrush="GreenYellow"
+                                Margin="0,0,0,0"
+                                FontSize="20" BorderThickness="1" Click="Button_Click_1" 
+                                />
+                    </StackPanel>
+                </Grid>
+            </Grid>
+        </Border>
+    </Grid>
+</Window>

@@ -1,0 +1,24 @@
+C:\Source\repos\GPU trace\GPU trace\obj\Debug\GPU trace.csprojAssemblyReference.cache
+C:\Source\repos\GPU trace\GPU trace\obj\Debug\MainWindow.g.cs
+C:\Source\repos\GPU trace\GPU trace\obj\Debug\App.g.cs
+C:\Source\repos\GPU trace\GPU trace\obj\Debug\GPU trace_MarkupCompile.cache
+C:\Source\repos\GPU trace\GPU trace\obj\Debug\GPU trace_MarkupCompile.lref
+C:\Source\repos\GPU trace\GPU trace\bin\Debug\GPU trace.exe.config
+C:\Source\repos\GPU trace\GPU trace\bin\Debug\GPU trace.exe
+C:\Source\repos\GPU trace\GPU trace\bin\Debug\GPU trace.pdb
+C:\Source\repos\GPU trace\GPU trace\obj\Debug\MainWindow.baml
+C:\Source\repos\GPU trace\GPU trace\obj\Debug\GPU trace.g.resources
+C:\Source\repos\GPU trace\GPU trace\obj\Debug\GPU_trace.Properties.Resources.resources
+C:\Source\repos\GPU trace\GPU trace\obj\Debug\GPU trace.csproj.GenerateResource.cache
+C:\Source\repos\GPU trace\GPU trace\obj\Debug\GPU trace.csproj.CoreCompileInputs.cache
+C:\Source\repos\GPU trace\GPU trace\obj\Debug\GPU trace.exe
+C:\Source\repos\GPU trace\GPU trace\obj\Debug\GPU trace.pdb
+C:\Source\repos\GPU trace\GPU trace\obj\Debug\Settings.g.cs
+C:\Source\repos\GPU trace\GPU trace\obj\Debug\Settings.baml
+C:\Source\repos\GPU trace\GPU trace\bin\Debug\Telegram.Bot.dll
+C:\Source\repos\GPU trace\GPU trace\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Source\repos\GPU trace\GPU trace\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Source\repos\GPU trace\GPU trace\bin\Debug\Telegram.Bot.xml
+C:\Source\repos\GPU trace\GPU trace\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Source\repos\GPU trace\GPU trace\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Source\repos\GPU trace\GPU trace\obj\Debug\GPU trace.csproj.CopyComplete
